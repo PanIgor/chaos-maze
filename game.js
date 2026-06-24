@@ -1,6 +1,7 @@
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
-
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1093096696607313"
+     crossorigin="anonymous"></script></head>
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
